@@ -1,1 +1,1 @@
-Example app for Chatgot chatbot
+Example app for CHATGPT chatbot
